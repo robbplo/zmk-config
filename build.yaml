@@ -20,6 +20,6 @@
 ---
 include:
   - board: nrf52840_m2
-    shield: corne_left
+    shield: splitkb_aurora_corne_left
   - board: nrf52840_m2
-    shield: corne_right
+    shield: splitkb_aurora_corne_right
